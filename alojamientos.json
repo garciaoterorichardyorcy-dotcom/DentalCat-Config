@@ -1,0 +1,26 @@
+{
+	"owner": "garciaoterorichardyorcy-dotcom",
+	"repositories": [
+		{
+			"enabled": true,
+			"name": "Alojamiento_1"
+		},
+		{
+			"enabled": true,
+			"name": "Alojamiento_2"
+		},
+		{
+			"enabled": true,
+			"name": "Alojamiento_3"
+		},
+		{
+			"enabled": true,
+			"name": "Alojamiento_4"
+		},
+		{
+			"enabled": true,
+			"name": "Alojamiento_5"
+		}
+	],
+	"version": 1
+}

@@ -20,6 +20,10 @@
 		{
 			"enabled": true,
 			"name": "Alojamiento_5"
+		},
+		{
+			"enabled": true,
+			"name": "Alojamiento_6"
 		}
 	],
 	"version": 1
